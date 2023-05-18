@@ -1,6 +1,6 @@
 /** First Wollok example */
 object wasdasdollok {
-	method howAreYou() {
+	method howAreYou() {klsjclksjkldj
 		return 'hola'
 	}
 }
