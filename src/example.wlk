@@ -1,5 +1,5 @@
 /** First Wollok example */
-object wollok {
+object wasdasdollok {
 	method howAreYou() {
 		return 'I am Wolloktastic!asdasd'
 	}
